@@ -4,7 +4,7 @@ A Spring Boot application with H2 in-memory database.
 
 ## Prerequisites
 
-- Java 21
+- Java 25
 - Maven
 
 ## Getting Started
